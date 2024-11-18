@@ -1,0 +1,21 @@
+body {
+    background-color: #1e1d20;
+}
+
+.principal {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+
+.coluna1, .coluna2, .coluna3 {
+    align-items: center;
+    margin: 1%;
+    flex-grow: 1;
+}
+
+
+h1 {
+    text-align: center;
+    color: white;
+}
